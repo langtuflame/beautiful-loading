@@ -1,4 +1,4 @@
-# beautiful-loading
+# beautiful-loading using tailwindcss
 
 ## Build Setup
 
