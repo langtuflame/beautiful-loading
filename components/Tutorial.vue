@@ -1,4 +1,3 @@
-<!-- Please remove this file from your project -->
 <template>
   <div class="balls">
   <div></div>
@@ -6,7 +5,7 @@
   <div></div>
 </div>
 </template>
-<style>
+<style scoped>
 .balls {
   width: 4em;
   display: flex;

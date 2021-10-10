@@ -1,7 +1,7 @@
 <template>
   <div></div>
 </template>
-<style>
+<style scoped>
 div {
   width: 2.5em;
   height: 3em;
