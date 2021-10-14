@@ -1,14 +1,12 @@
 <template>
-  <div class="grid grid-cols-2 gap-x-4 lg:grid-cols-4 justify-items-center mt-20 max-w-screen-xl mx-auto w-full px-4">
-    <Tutorial/>
+  <div
+    class="grid w-full max-w-screen-xl grid-cols-2 px-4 mx-auto mt-20 gap-x-4 lg:grid-cols-4 justify-items-center"
+  >
+    <Tutorial />
     <spin-strech />
     <loading-spin />
+    <loading-dot />
   </div>
 </template>
 
-<script>
-import LoadingSpin from '../components/LoadingSpin.vue'
-import SpinStrech from '../components/SpinStrech.vue'
-export default {
-  components: { SpinStrech, LoadingSpin },}
-</script>
+<script></script>
