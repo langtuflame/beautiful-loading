@@ -3,6 +3,7 @@
     <Tutorial/>
     <spin-strech />
     <loading-spin />
+    <loading-ring />
   </div>
 </template>
 
