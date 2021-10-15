@@ -5,6 +5,7 @@
     <Tutorial />
     <spin-strech />
     <loading-spin />
+    <loading-ring />
     <loading-dot />
   </div>
 </template>
